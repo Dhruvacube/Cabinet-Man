@@ -1,6 +1,7 @@
 # Cabinet-Man
 Cabinet Man Song implemented in a gameplay in scratch. (Google Code to Learn 2018)
-(Implemented in Scract 2 and Scratch 3)
+
+(Implemented in Scratch 2 and Scratch 3)
 ***
 
 This project started with a blank mind no idea.
