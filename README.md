@@ -1,6 +1,6 @@
 # Cabinet-Man
 Cabinet Man Song implemented in a gameplay in scratch. (Google Code to Learn 2018)
-
+(Implemented in Scract 2 and Scratch 3)
 ***
 
 This project started with a blank mind no idea.
@@ -13,6 +13,8 @@ This project was exclusively made for "Google Code to Learn 2018".
 Credits:-
 1. @Dhruvacuber
 2. @P4LE C4RR0TZ
+
+***
 
 ### Instructions for playing
 
